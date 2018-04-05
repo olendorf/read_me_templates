@@ -13,6 +13,8 @@ While all the content here is Public Domain to make it really easy to share, ple
 ## Contributing
 We love pull requests. Here's a quick guide:
 
+Templates and examples from a variety of domains are especially welcome. They should be in a text format such as text `(.txt)` or markdown `(.md)` but other text based formats are fine too.
+
 1. Fork the repo.
 
 2. Add the content you want.
