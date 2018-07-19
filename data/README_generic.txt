@@ -17,6 +17,8 @@ CONTRIBUTORS: List of people who have contributes. (Name, email, role, instituti
 
 PROJECT DATES: Date range for when the project occurred.
 
+SPATIAL EXTENT: Information about any spatial component to the project. Lat/Long is ideal. They can be a bounding box (or polygon) Place names will often work as well.
+
 
 PROJECT DESCRIPTION: 
     A description of the project associated with the data. What was the goal of the project?
