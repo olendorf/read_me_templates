@@ -1,3 +1,5 @@
+
+
 # Template README Files
 
 Readme files are a common way of sharing basic, human readable documentation for a project. While they are often written last, I would encourage everyone to write theirs first and update it as the project progresses. A really nice blog post on this is at [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
@@ -6,6 +8,8 @@ Readme files are a common way of sharing basic, human readable documentation for
 
 This repo is still very new, but the plan is to populate it with good templates and examples of READMEs from a variety of projects, disciplines and uses. If you don't see what you need please feel free to contribute or request.
 
+
+Templates are listed in the `templates` directory, using the nameing convention **README_<template_name>**. In practice, the name should be changed to just **README.txt**.
 ## Citing
 
 While all the content here is Public Domain to make it really easy to share, please be a good citizen and cite the source and creator of your templates. Where appropriate.
@@ -13,7 +17,8 @@ While all the content here is Public Domain to make it really easy to share, ple
 ## Contributing
 We love pull requests. Here's a quick guide:
 
-Templates and examples from a variety of domains are especially welcome. They should be in a text format such as text `(.txt)` or markdown `(.md)` but other text based formats are fine too.
+Templates and examples from a variety of domains are especially welcome. They should be in a text format such as text **.txt** or markdown **.md** but other text based formats are fine too.
+You can add alternative formats for each template, for instance both text and markdown versions of the same template are encourged.
 
 1. Fork the repo.
 
